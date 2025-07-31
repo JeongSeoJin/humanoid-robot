@@ -1,5 +1,8 @@
 # Everything about Humanoid Robot
 
+### -T.K.- [-T.K.- LAB Notes](https://tk233.gitbook.io/notes)
+-> Berkeley Humanoid maker. 
+
 ### Skyentific
 
 [How to build Humanoid: NVIDIA Isaac Lab, how to walk](https://www.youtube.com/watch?v=xwOaStX0mxE) -> This is essential for my bipedal robot locomotion
