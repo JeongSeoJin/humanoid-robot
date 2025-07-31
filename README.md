@@ -1,0 +1,24 @@
+# Everything about Humanoid Robot
+
+### Skyentific
+
+[How to build Humanoid: NVIDIA Isaac Lab, how to walk](https://www.youtube.com/watch?v=xwOaStX0mxE) -> This is essential for my bipedal robot locomotion
+
+[How to build Bipedal Robot](https://www.youtube.com/watch?v=pZnzG8EVkuA) -> This is really close to what I want to make
+
+[Simulation took Control of my Robot Arm (NVIDIA Isaac Sim) ](https://www.youtube.com/watch?v=Eb2zuQxOBlY) -> NVIDIA : sim to real 
+
+
+### Aaed Musa [Documentation](https://www.aaedmusa.com/projects/cara)
+
+[This Robot Glides Like an Ice Skater](https://www.youtube.com/watch?v=WIU8gnqQJJM) -> This is really close to what I want to make. I want to make my robot with battery of drills(Dewalt)
+
+
+### Bekeley Humanoid Lite DOCS [Documentation](https://berkeley-humanoid-lite.gitbook.io/docs) 
+-> Theres really useful informations for Robot Building with simple explanations
+
+![Wiring Configuration](img/image.png)
+
+Actuator Components : MAD5110 BLDC Motor + B-G431B-ESC1 + AS5600 encoder
+
+Actuators are wired through adjacent neighboring actuators through CAN. And  via USB-CAN Adaptor, Actuators are connected to Central Controller(Mini PC in this picture) -> This is what I want to do!!
