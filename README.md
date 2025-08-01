@@ -11,6 +11,9 @@
 
 [Simulation took Control of my Robot Arm (NVIDIA Isaac Sim) ](https://www.youtube.com/watch?v=Eb2zuQxOBlY) -> NVIDIA : sim to real 
 
+[Battery Power for the Robot Arm](https://www.youtube.com/watch?v=eiXICsVkoIg) -> Power Distribution System!
+
+[MIT Mini cheetah Actuator](https://youtu.be/ecSQZlNda6g?si=d8ZTqUfLYLhf62I5) -> Really nice CAN Bus Explanations!
 
 ### Aaed Musa [Documentation](https://www.aaedmusa.com/projects/cara)
 
