@@ -1,7 +1,7 @@
 # Everything about Humanoid Robot
 
 ### -T.K.- [-T.K.- LAB Notes](https://tk233.gitbook.io/notes)
--> Berkeley Humanoid maker. 
+-> Berkeley Humanoid maker.
 
 ### Skyentific
 
