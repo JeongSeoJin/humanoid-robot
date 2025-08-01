@@ -3,6 +3,8 @@
 ### -T.K.- [-T.K.- LAB Notes](https://tk233.gitbook.io/notes)
 -> Berkeley Humanoid maker.
 
+---
+
 ### Skyentific
 
 [Simulation took Control of my Robot Arm (NVIDIA Isaac Sim) ](https://www.youtube.com/watch?v=Eb2zuQxOBlY) -> NVIDIA Isaac Sim : sim to real 
@@ -12,10 +14,18 @@
 [How to build Bipedal Robot](https://www.youtube.com/watch?v=pZnzG8EVkuA) -> This is really close to what I want to make
 
 
+
+[Battery Power for the Robot Arm](https://www.youtube.com/watch?v=eiXICsVkoIg) -> Power Distribution System!
+
+[MIT Mini cheetah Actuator](https://youtu.be/ecSQZlNda6g?si=d8ZTqUfLYLhf62I5) -> Really nice CAN Bus Explanations!
+
+---
+
 ### Aaed Musa [Documentation](https://www.aaedmusa.com/projects/cara)
 
 [This Robot Glides Like an Ice Skater](https://www.youtube.com/watch?v=WIU8gnqQJJM) -> This is really close to what I want to make. I want to make my robot with battery of drills(Dewalt)
 
+---
 
 ### Bekeley Humanoid Lite DOCS [Documentation](https://berkeley-humanoid-lite.gitbook.io/docs) 
 -> Theres really useful informations for Robot Building with simple explanations
